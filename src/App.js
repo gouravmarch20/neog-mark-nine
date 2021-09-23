@@ -79,7 +79,7 @@ const App = () => {
   return (
     <div className='container'>
       <h1 className="heading-one">Planet Earth</h1>
-      <h3>World's most inspiring natural wonders</h3>
+      <h3>World's most inspiring natural Wonders</h3>
 
       {Object.keys(data).map(city => {
         return (
